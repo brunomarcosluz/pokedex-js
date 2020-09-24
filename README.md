@@ -2,7 +2,7 @@
  
 <h2 align="center">Pokedex of first Pokemon Generation with pure Javascript </h2>
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=Pokemon&message=Pokedex&color=ec0101&style=for-the-badge&logo=GitHub">
+<img src="https://img.shields.io/static/v1?label=Pokemon&message=Pokedex&color=fa1616&style=for-the-badge&logo=GitHub">
 </p>
 <p align ="center"> 
  <img width="600" height="400" alt="Screenshot Pokedex" src="./.github/screenshotpkdx.PNG"/>
