@@ -7,3 +7,7 @@
 <p align ="center"> 
  <img width="600" height="400" alt="Screenshot Pokedex" src="./.github/screenshotpkdx.PNG"/>
 </p>
+
+<p> <img width="20" height="20" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384060.svg" alt="youtube logo"> credits for teatcher Roger Mello! Follow he on YouTube! 
+ https://www.youtube.com/c/RogerMelo
+ </p>
